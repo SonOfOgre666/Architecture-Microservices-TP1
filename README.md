@@ -15,8 +15,5 @@ metier.MetierImpl
 ```
 
 Exécution:
-```bash
-mvn -DskipTests compile
-java -cp target/classes presentation.Presentation2
-# sortie attendue: "Résultats = 200.0"
-```
+
+[![TP1 Video](TP1.webm)](TP1.webm)
