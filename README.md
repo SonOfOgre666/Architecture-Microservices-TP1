@@ -16,4 +16,4 @@ metier.MetierImpl
 
 Exécution:
 
-[![TP1 Video](TP1.webm)](TP1.webm)
+[![TP1 Video](TP1.mp4)](TP1.mp4)
